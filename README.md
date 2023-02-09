@@ -18,6 +18,6 @@ https://drive.google.com/file/d/1P61mp03phUxJiDxL_sdqwEUTaGRkamUZ/view?usp=share
 
 ## Change Log:
 ### Version 1:
-    -passport/ID reader complete
-    -basic siamese neural network implemented
+   ##### -passport/ID reader complete
+   ##### -basic siamese neural network implemented
   
