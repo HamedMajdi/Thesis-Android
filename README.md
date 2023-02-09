@@ -2,7 +2,7 @@
 ## This is the repository of the android face recognition based on the passport/ID card photo.
 The repository will be constantly updated as the application progresses.
 
-##How to run the app:
+## How to run the app:
 
 1: Please Download the tflite model from the link below:
 
@@ -16,8 +16,8 @@ https://drive.google.com/file/d/1P61mp03phUxJiDxL_sdqwEUTaGRkamUZ/view?usp=share
 
 5: Run the application.
 
-##Change Log:
-###Version 1:
+## Change Log:
+### Version 1:
   -passport/ID reader complete
   -basic siamese neural network implemented
   
