@@ -1,0 +1,5 @@
+include ':app'
+include ':openCVLibrary3413'
+rootProject.name = "passport-reader"
+include ':openCVLibrary3413'
+

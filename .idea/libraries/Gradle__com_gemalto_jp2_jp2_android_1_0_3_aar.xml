@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.gemalto.jp2:jp2-android:1.0.3@aar">
+    <ANNOTATIONS>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2fc34fdfa150f47955063b60310c2922/transformed/jetified-jp2-android-1.0.3/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/2fc34fdfa150f47955063b60310c2922/transformed/jetified-jp2-android-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fc34fdfa150f47955063b60310c2922/transformed/jetified-jp2-android-1.0.3/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/2fc34fdfa150f47955063b60310c2922/transformed/jetified-jp2-android-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gemalto.jp2/jp2-android/1.0.3/8f70140551172c59e768e289a12697a4e0dc0f0b/jp2-android-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gemalto.jp2/jp2-android/1.0.3/7d7655502adf2b69398e8be2b2ced6dc84335a3/jp2-android-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.scuba:scuba-sc-android:0.0.18@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/079b3a65d8285062d81ee42a4380b5bd/transformed/jetified-scuba-sc-android-0.0.18/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/079b3a65d8285062d81ee42a4380b5bd/transformed/jetified-scuba-sc-android-0.0.18/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/079b3a65d8285062d81ee42a4380b5bd/transformed/jetified-scuba-sc-android-0.0.18/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
