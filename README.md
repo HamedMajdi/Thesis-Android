@@ -17,7 +17,7 @@ https://drive.google.com/file/d/1P61mp03phUxJiDxL_sdqwEUTaGRkamUZ/view?usp=share
 5: Run the application.
 
 ## Change Log:
-### Version 1:
+### Version 1.0:
 &emsp;-passport/ID reader complete
 
 &emsp;-basic siamese neural network implemented
